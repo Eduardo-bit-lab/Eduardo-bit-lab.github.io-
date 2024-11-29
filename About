@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Om mig - Eduardo Olsson</title>
+    <link rel="stylesheet" href="style.css"> <!-- Länkar till din CSS-fil om du vill använda samma stil som övriga sidor -->
+</head>
+<body>
+    <header>
+        <h1>Om mig</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hem</a></li>
+                <li><a href="cv.html">CV</a></li>
+                <li><a href="blog.html">Blogg</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Vem är jag?</h2>
+            <p>Jag heter Eduardo Olsson och arbetar som systemförvaltare. Jag har en passion för att strukturera och optimera processer och strävar efter att ständigt utvecklas, både professionellt och personligt.</p>
+        </section>
+
+        <section>
+            <h2>Min bakgrund</h2>
+            <p>Jag är utbildad socionom men har också ett stort intresse för IT och teknik. Just nu arbetar jag med systemförvaltning för att hjälpa organisationer att fungera smidigare och effektivare.</p>
+        </section>
+
+        <section>
+            <h2>Intressen</h2>
+            <ul>
+                <li>Yoga och meditation</li>
+                <li>Personlig utveckling</li>
+                <li>Ekonomi och hållbarhet</li>
+                <li>Musik och dans, särskilt afro-latinska genrer</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Personliga värderingar</h2>
+            <p>Jag värdesätter ärlighet, nyfikenhet och ödmjukhet. Genom mina livserfarenheter har jag lärt mig vikten av att växa som individ och samtidigt bidra till ett rättvisare samhälle.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Eduardo Olsson. Alla rättigheter förbehållna.</p>
+    </footer>
+</body>
+</html>
