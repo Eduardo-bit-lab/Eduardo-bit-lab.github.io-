@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV - Eduardo Olsson</title>
+    <link rel="stylesheet" href="style.css"> <!-- Länka till en gemensam CSS-fil -->
+</head>
+<body>
+    <header>
+        <h1>Mitt CV</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hem</a></li>
+                <li><a href="about.html">Om mig</a></li>
+                <li><a href="blog.html">Blogg</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Utbildning</h2>
+            <ul>
+                <li><strong>Kandidatexamen i Socionomi</strong> - [Universitetets namn] (År)</li>
+                <li><strong>Kurs i IT och systemförvaltning</strong> - [Utbildningsplats] (År)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Arbetslivserfarenhet</h2>
+            <ul>
+                <li>
+                    <strong>Systemförvaltare</strong> - [Arbetsplats] (År-År)<br>
+                    <p>Ansvar för att hantera och utveckla verksamhetssystem.</p>
+                </li>
+                <li>
+                    <strong>Socionom</strong> - [Arbetsplats] (År-År)<br>
+                    <p>Stöd och rådgivning för individer i behov.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Färdigheter</h2>
+            <ul>
+                <li>Systemförvaltning och IT</li>
+                <li>Kommunikation och ledarskap</li>
+                <li>Problemlösning och analytiskt tänkande</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Certifikat</h2>
+            <ul>
+                <li>[Namn på certifikat] - Utfärdat av [Organisation]</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Ladda ner mitt CV</h2>
+            <p><a href="cv.pdf" download>Klicka här för att ladda ner mitt CV som PDF</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Eduardo Olsson. Alla rättigheter förbehållna.</p>
+    </footer>
+</body>
+</html>
